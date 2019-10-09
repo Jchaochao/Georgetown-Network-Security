@@ -1,0 +1,7 @@
+package hw22;
+
+message Pack{
+  required string MSG = 1;
+	required string MAC = 2;
+
+}

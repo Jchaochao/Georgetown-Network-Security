@@ -1,0 +1,6 @@
+package hw21;
+
+message Pack{
+	required string name = 1;
+	required string msg = 2;
+}
